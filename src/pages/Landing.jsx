@@ -11,8 +11,12 @@ export default function Landing() {
       </header>
       <nav>
         <ul className="nav-list drop-shadow text-shadow">
-          <li className="nav-item gradient-border"><a href="https://store.beams.gg/" target="_blank">Store</a></li>
-          <li className="nav-item gradient-border"><a href="http://discord.beams.gg/" target="_blank">Discord</a></li>
+          <a href="https://store.beams.gg/" target="_blank">
+            <li className="nav-item gradient-border">Store</li>
+          </a>
+          <a href="http://discord.beams.gg/" target="_blank">
+            <li className="nav-item gradient-border">Discord</li>
+          </a>
         </ul>
       </nav>
       <footer>
