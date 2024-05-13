@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(./4k-Banner.png);
+  background-image: url(../../public/4k-Banner.png);
   background-position: center;
   background-size: cover;
   position: relative;
